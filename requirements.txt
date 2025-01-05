@@ -1,0 +1,5 @@
+cadquery
+cadquery-ocp
+streamlit
+streamlit_stl
+numpy==1.26
